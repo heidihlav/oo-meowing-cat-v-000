@@ -2,6 +2,7 @@ class Cat
   attr_accessor :name, :meow
 
   def meow
+  end
 end
 
 maru = Cat.new
